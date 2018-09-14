@@ -14,6 +14,12 @@ This repository contains portfolio of data science projects completed by me for 
  
      _Tools: Scikit-learn, Pandas, Seaborn, Matplotlib, Keras
 
+
+- ### Data Challenges
+
+      - [Predicting air pollution parameter in an Italian city for the next hour](https://github.com/akshayarane/data_science_portfolio/blob/master/Data_challenges/air_pollution.ipynb)
+
+
 -  ### ML Mini Projects
 
       - [Spam detection using Naive Bayes](https://github.com/akshayarane/data_science_portfolio/blob/master/ML_mini_projects/sms_spam.ipynb): Classify spam and not spam messages using the Naive Bayes algorithm.
