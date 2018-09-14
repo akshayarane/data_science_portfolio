@@ -17,7 +17,7 @@ This repository contains portfolio of data science projects completed by me for 
 
 - ### Data Challenges
 
-      - [Predicting air pollution parameter in an Italian city for the next hour](https://github.com/akshayarane/data_science_portfolio/blob/master/Data_challenges/air_pollution.ipynb)
+     - [Predicting air pollution parameter in an Italian city for the next hour](https://github.com/akshayarane/data_science_portfolio/blob/master/Data_challenges/air_pollution.ipynb)
 
 
 -  ### ML Mini Projects
