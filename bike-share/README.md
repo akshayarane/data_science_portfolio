@@ -8,7 +8,7 @@
  - hour.csv                      -------- The data file obtained from the UCI repo (bike sharing counts aggregated on hourly basis. Records: 17379 hours)
  - visuals.py                    -------- contains helper function for plotting important features (borrowed from MLND)
    
-### ### Install
+### Install
 
 This project requires **Python** and the following Python libraries installed:
 
